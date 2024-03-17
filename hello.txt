@@ -19,4 +19,4 @@ hello git!!!-------version-1
 hello git!!!-------version-1
 hello git!!!-------version-1
 hello git!!!-------version-1 master merge test
-hello git!!!-------version-1
+hello git!!!-------version-1 hot-fix merge test
